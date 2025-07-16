@@ -1,19 +1,31 @@
-const fs = require("fs");
-const path = require("path");
+const f = require("fs");
+const p = require("path");
 
-const p = path.join(__dirname, "..", "tools");
+const g = async () => {
+  const a = [];
 
-async function g() {
-  const a = fs.readdirSync(p).filter(f => f.endsWith(".js"));
-  const b = a.map(f => {
-    const z = require(path.join(p, f));
-    return {
-      n: z.name || f,
-      d: z.description || "sin desc",
-      e: z.run,
-    };
-  });
-  return b;
-}
+  const h = d => {
+    const x = p.join(__dirname, "..", "tools", d);
+    const y = f.readdirSync(x, { withFileTypes: true });
+
+    for (const z of y) {
+      if (z.isDirectory()) h(p.join(d, z.name));
+      else if (z.name.endsWith(".js")) {
+        const m = require(p.join(x, z.name));
+        const s = d.split(p.sep).filter(Boolean).pop() || "root";
+
+        a.push({
+          n: m.name || z.name,
+          d: m.description || "sin desc",
+          e: m.run,
+          f: s,
+        });
+      }
+    }
+  };
+
+  h("");
+  return a;
+};
 
 module.exports = { g };
