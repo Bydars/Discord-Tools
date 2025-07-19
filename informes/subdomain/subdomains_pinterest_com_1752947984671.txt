@@ -1,0 +1,114 @@
+about.pinterest.com
+  A → 151.101.192.84, 151.101.0.84, 151.101.64.84, 151.101.128.84
+  AAAA → 
+  CNAME → prod.pinterest.global.map.fastly.net
+
+adminapp.pinterest.com
+  A → 151.101.0.84, 151.101.64.84, 151.101.128.84, 151.101.192.84
+  AAAA → 
+  CNAME → www.pinterest.com
+
+anket.pinterest.com
+  A → 151.101.64.84, 151.101.128.84, 151.101.0.84, 151.101.192.84
+  AAAA → 
+  CNAME → prod.pinterest.global.map.fastly.net
+
+api.pinterest.com
+  A → 151.101.0.84, 151.101.64.84, 151.101.128.84, 151.101.192.84
+  AAAA → 
+  CNAME → api-pinterest-com.gslb.pinterest.com
+
+asset.pinterest.com
+  A → 23.56.163.34
+  AAAA → 2600:141b:e800:148e::1931, 2600:141b:e800:1481::1931, 2600:141b:e800:1487::1931, 2600:141b:e800:1482::1931, 2600:141b:e800:1486::1931
+  CNAME → s.pinimg.com
+
+assets.pinterest.com
+  A → 23.56.163.34
+  AAAA → 2a04:4e42::84, 2a04:4e42:200::84, 2a04:4e42:600::84, 2a04:4e42:400::84
+  CNAME → s.pinimg.com
+
+blog.pinterest.com
+  A → 151.101.128.84, 151.101.0.84, 151.101.64.84, 151.101.192.84
+  AAAA → 
+  CNAME → prod.pinterest.global.map.fastly.net
+
+business.pinterest.com
+  A → 151.101.128.84, 151.101.0.84, 151.101.64.84, 151.101.192.84
+  AAAA → 
+  CNAME → prod.pinterest.global.map.fastly.net
+
+careers.pinterest.com
+  A → 151.101.192.84, 151.101.64.84, 151.101.128.84, 151.101.0.84
+  AAAA → 
+  CNAME → prod.pinterest.global.map.fastly.net
+
+developers-latest.pinterest.com
+  A → 151.101.192.84, 151.101.64.84, 151.101.0.84, 151.101.128.84
+  AAAA → 
+  CNAME → prod.pinterest.global.map.fastly.net
+
+developers.pinterest.com
+  A → 151.101.0.84, 151.101.64.84, 151.101.128.84, 151.101.192.84
+  AAAA → 
+  CNAME → prod.pinterest.global.map.fastly.net
+
+engineering.pinterest.com
+  A → 151.101.128.84, 151.101.0.84, 151.101.192.84, 151.101.64.84
+  AAAA → 
+  CNAME → prod.pinterest.global.map.fastly.net
+
+fr.pinterest.com
+  A → 151.101.128.84, 151.101.192.84, 151.101.64.84, 151.101.0.84
+  AAAA → 
+  CNAME → www.pinterest.com
+
+help.pinterest.com
+  A → 151.101.64.84, 151.101.192.84, 151.101.128.84, 151.101.0.84
+  AAAA → 
+  CNAME → prod.pinterest.global.map.fastly.net
+
+jp.pinterest.com
+  A → 151.101.0.84, 151.101.128.84, 151.101.64.84, 151.101.192.84
+  AAAA → 
+  CNAME → www.pinterest.com
+
+mdp.pinterest.com
+  A → 151.101.128.84, 151.101.192.84, 151.101.64.84, 151.101.0.84
+  AAAA → 
+  CNAME → prod.pinterest.global.map.fastly.net
+
+pinfluencers.pinterest.com
+  A → 151.101.128.84, 151.101.0.84, 151.101.64.84, 151.101.192.84
+  AAAA → 
+  CNAME → prod.pinterest.global.map.fastly.net
+
+policy.pinterest.com
+  A → 151.101.192.84, 151.101.128.84, 151.101.0.84, 151.101.64.84
+  AAAA → 
+  CNAME → prod.pinterest.global.map.fastly.net
+
+post.pinterest.com
+  A → 151.101.192.84, 151.101.0.84, 151.101.128.84, 151.101.64.84
+  AAAA → 
+  CNAME → prod.pinterest.global.map.fastly.net
+
+support.pinterest.com
+  A → 23.56.163.34
+  AAAA → 
+  CNAME → www.pinterest.com
+
+testing.pinterest.com
+  A → 151.101.0.84, 151.101.192.84, 151.101.64.84, 151.101.128.84
+  AAAA → 
+  CNAME → www.pinterest.com
+
+widgets.pinterest.com
+  A → 151.101.128.84, 151.101.0.84, 151.101.64.84, 151.101.192.84
+  AAAA → 
+  CNAME → prod.pinterest.global.map.fastly.net
+
+www.pinterest.com
+  A → 23.56.163.34
+  AAAA → 
+  CNAME → www-pinterest-com.gslb.pinterest.com

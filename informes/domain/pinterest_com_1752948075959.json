@@ -1,0 +1,136 @@
+{
+  "dominio": "pinterest.com",
+  "fecha": "2025-07-19T18:00:10.368Z",
+  "modulos": {
+    "whois": "Dominio: PINTEREST.COM\nEstado: client delete prohibited, client transfer prohibited, client update prohibited, server delete prohibited, server transfer prohibited, server update prohibited\nRegistrar: N/A\nCreación: 2009-11-26T19:21:23Z\nExpiración: 2026-11-26T19:21:23Z",
+    "dns_A": [
+      "151.101.64.84",
+      "151.101.192.84",
+      "151.101.0.84",
+      "151.101.128.84"
+    ],
+    "dns_AAAA": [],
+    "dns_NS": [
+      "ns6.pinterest.com",
+      "ns10.pinterest.com",
+      "ns9.pinterest.com",
+      "ns5.pinterest.com"
+    ],
+    "dns_MX": [
+      {
+        "exchange": "aspmx.l.google.com",
+        "priority": 1
+      },
+      {
+        "exchange": "alt2.aspmx.l.google.com",
+        "priority": 5
+      },
+      {
+        "exchange": "alt3.aspmx.l.google.com",
+        "priority": 10
+      },
+      {
+        "exchange": "alt1.aspmx.l.google.com",
+        "priority": 5
+      },
+      {
+        "exchange": "alt4.aspmx.l.google.com",
+        "priority": 10
+      }
+    ],
+    "dns_TXT": [
+      [
+        "google-site-verification=NL3G6_2q9FrmNnriQD18LIAVfmthnoRMIatQzD_MhTI"
+      ],
+      [
+        "v=spf1 redirect=_spf.pinterest.com"
+      ],
+      [
+        "ZOOM_verify_noGVfZnQStK_Xkext4FibQ"
+      ],
+      [
+        "miro-verification=8739d427e9a419960e9fbb1f86941c3b74e47415"
+      ],
+      [
+        "loom-site-verification=5a36a427d0674ac5b53de45d12741f68"
+      ],
+      [
+        "docker-verification=b02df65b-3c5d-4537-b019-4537f40d5d6e"
+      ],
+      [
+        "canva-site-verification=a6iVl7OoKkmq61eoJl2EXQ"
+      ],
+      [
+        "mgverify=a37224d064fb37fa047c67fecac02932e7cdc68e4a12addcb9762e52efa7c1f1"
+      ],
+      [
+        "loom-verification=9088334975"
+      ],
+      [
+        "facebook-domain-verification=2pkj9rox53bgoy96jten5vrid77mv7"
+      ],
+      [
+        "docusign=181669b6-686c-408b-ac15-076711ffc372"
+      ],
+      [
+        "atlassian-domain-verification=VvwbKGkKpnJiNIesXRcvnY12kzfIjT/wvmUb20l7mKjTN9IseYMUKstqdhwnSe59"
+      ],
+      [
+        "postman-domain-verification=142fa709f30458c470545ae61a557bdc54690989c11d4bc4c1fa0024f2633301472dede2e6f991eb8f711acc29e99803b459917344d52b9bd0c96cdd4e9b9609"
+      ],
+      [
+        "browserstack-domain-verification=b57d2484-2df5-41d4-9b7e-5e8fed11b781"
+      ],
+      [
+        "dcao2catgy34x.cloudfront.net"
+      ],
+      [
+        "yandex-verification: 9448cd71fe506a76"
+      ],
+      [
+        "google-site-verification=ROV7s4DFtQ5T6mqp_PnThPrA3J8cLSSfIvmDJCcM-Rk"
+      ],
+      [
+        "_jxx75kx4ijmh4spod8tg2jndno61k81"
+      ],
+      [
+        "docusign=7247a7f7-68c2-4f62-bb95-06c52d85d646"
+      ],
+      [
+        "paloaltonetworks-site-verification=87ccfc26e7b2486ad8e407c6ed99e788937e68856e3091665b3a942fb44f7646"
+      ],
+      [
+        "openai-domain-verification=dv-FvRuqwrE1vLdGpJp5PlbPvQr"
+      ],
+      [
+        "happeo-site-verification=38d7bd5177a34890878877d099afe22f"
+      ],
+      [
+        "CKO=cli_cyft6no6jdbuzmltnrp3egprzy"
+      ],
+      [
+        "MS=ms18016700"
+      ],
+      [
+        "1password-site-verification=WCNWOT5Q6BDF3JCLBGSCDZO4AE"
+      ],
+      [
+        "apple-domain-verification=fR4SkeFsfvTQqwcL"
+      ]
+    ],
+    "dns_SOA": [],
+    "dns_CNAME": [],
+    "crtsh": "No se encontraron registros.",
+    "bufferover": "No se encontraron registros.",
+    "jldc": "testing.pinterest.com\nassets.pinterest.com\nadminapp.pinterest.com\njp.pinterest.com\nengineering.pinterest.com\nanket.pinterest.com\ngb.pinterest.com\nblog.pinterest.com\nmdp.pinterest.com\npinterest.help.pinterest.com\nbusiness.pinterest.com\ndevelopers.pinterest.com\ncareers.pinterest.com\norigin.sub.pinterest.com\nrealtime.pinterest.com\nwidgets.pinterest.com\nabout.pinterest.com\npinfluencers.pinterest.com\npost.pinterest.com\npolicy.pinterest.com\nsupport.pinterest.com\napi.pinterest.com\ndevelopers-latest.pinterest.com\nsub.pinterest.com\nhelp.pinterest.com\nfr.pinterest.com\nasset.pinterest.com",
+    "geoip": "IP: 151.101.64.84\nPaís: United States\nISP: Fastly, Inc.\nORG: Fastly, Inc.\nASN: AS54113 Fastly, Inc.\nCiudad: San Francisco",
+    "reverseip": "pinterest.be\npinterest.ch\ntraumezimmer.ch\nmindyourplants.com\npinpiaa.com\npinterestcreators.com\npinterestjapanblog.com\npresentslaunches.com\nunboringboardroom.com\nin-style-ins-neue-jahr.de\npinterest.dk\npinterest.hu\npinterest.jp\npinterest.com.py\npinterest.ru\npinterest.se\npinterest.th\npinterest.co.uk\npinterest.uk",
+    "headers": "✅ Protección X-Frame activa\n✅ CSP presente",
+    "zonetransfer": [
+      "ns5.pinterest.com: fallido (seguro)",
+      "ns6.pinterest.com: fallido (seguro)",
+      "ns9.pinterest.com: fallido (seguro)",
+      "ns10.pinterest.com: fallido (seguro)"
+    ]
+  }
+}

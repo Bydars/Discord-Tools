@@ -1,7 +1,7 @@
 const a = require("inquirer");
 const b = require("axios");
 
-const name = "🗑️ 4";
+const name = "🗑️ Delete Webhook";
 const description = "Eliminar un webhook de Discord";
 
 const c = (d) => new Promise((e) => setTimeout(e, d));

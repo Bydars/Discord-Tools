@@ -1,7 +1,7 @@
 const a = require("inquirer");
 const b = require("axios");
 
-const name = "📡 3";
+const name = "📡 Webhook Spammer";
 const description = "Spammer para webhooks (texto o embed)";
 
 const c = (d) => new Promise((e) => setTimeout(e, d));

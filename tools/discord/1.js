@@ -3,7 +3,7 @@ const a = require("axios");
 const c = require("chalk");
 const os = require("os");
 
-const name = "🧪 1";
+const name = "🧪 Token Info";
 const description = "Ver detalles completos de un token de Discord";
 
 function decodeSnowflake(id) {

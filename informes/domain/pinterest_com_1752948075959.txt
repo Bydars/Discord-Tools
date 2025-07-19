@@ -1,0 +1,155 @@
+🕵️ Informe de dominio: pinterest.com
+📅 Fecha: 2025-07-19T18:00:10.368Z
+
+
+🌍 WHOIS (RDAP)
+------------------------------------------------------------
+Dominio: PINTEREST.COM
+Estado: client delete prohibited, client transfer prohibited, client update prohibited, server delete prohibited, server transfer prohibited, server update prohibited
+Registrar: N/A
+Creación: 2009-11-26T19:21:23Z
+Expiración: 2026-11-26T19:21:23Z
+
+🔎 Registro A
+------------------------------------------------------------
+151.101.64.84
+151.101.192.84
+151.101.0.84
+151.101.128.84
+
+🔎 Registro AAAA
+------------------------------------------------------------
+No se encontraron registros.
+
+🔎 Registro NS
+------------------------------------------------------------
+ns6.pinterest.com
+ns10.pinterest.com
+ns9.pinterest.com
+ns5.pinterest.com
+
+🔎 Registro MX
+------------------------------------------------------------
+[object Object]
+[object Object]
+[object Object]
+[object Object]
+[object Object]
+
+🔎 Registro TXT
+------------------------------------------------------------
+google-site-verification=NL3G6_2q9FrmNnriQD18LIAVfmthnoRMIatQzD_MhTI
+v=spf1 redirect=_spf.pinterest.com
+ZOOM_verify_noGVfZnQStK_Xkext4FibQ
+miro-verification=8739d427e9a419960e9fbb1f86941c3b74e47415
+loom-site-verification=5a36a427d0674ac5b53de45d12741f68
+docker-verification=b02df65b-3c5d-4537-b019-4537f40d5d6e
+canva-site-verification=a6iVl7OoKkmq61eoJl2EXQ
+mgverify=a37224d064fb37fa047c67fecac02932e7cdc68e4a12addcb9762e52efa7c1f1
+loom-verification=9088334975
+facebook-domain-verification=2pkj9rox53bgoy96jten5vrid77mv7
+docusign=181669b6-686c-408b-ac15-076711ffc372
+atlassian-domain-verification=VvwbKGkKpnJiNIesXRcvnY12kzfIjT/wvmUb20l7mKjTN9IseYMUKstqdhwnSe59
+postman-domain-verification=142fa709f30458c470545ae61a557bdc54690989c11d4bc4c1fa0024f2633301472dede2e6f991eb8f711acc29e99803b459917344d52b9bd0c96cdd4e9b9609
+browserstack-domain-verification=b57d2484-2df5-41d4-9b7e-5e8fed11b781
+dcao2catgy34x.cloudfront.net
+yandex-verification: 9448cd71fe506a76
+google-site-verification=ROV7s4DFtQ5T6mqp_PnThPrA3J8cLSSfIvmDJCcM-Rk
+_jxx75kx4ijmh4spod8tg2jndno61k81
+docusign=7247a7f7-68c2-4f62-bb95-06c52d85d646
+paloaltonetworks-site-verification=87ccfc26e7b2486ad8e407c6ed99e788937e68856e3091665b3a942fb44f7646
+openai-domain-verification=dv-FvRuqwrE1vLdGpJp5PlbPvQr
+happeo-site-verification=38d7bd5177a34890878877d099afe22f
+CKO=cli_cyft6no6jdbuzmltnrp3egprzy
+MS=ms18016700
+1password-site-verification=WCNWOT5Q6BDF3JCLBGSCDZO4AE
+apple-domain-verification=fR4SkeFsfvTQqwcL
+
+🔎 Registro SOA
+------------------------------------------------------------
+No se encontraron registros.
+
+🔎 Registro CNAME
+------------------------------------------------------------
+No se encontraron registros.
+
+📑 Subdominios (CRT.sh)
+------------------------------------------------------------
+No se encontraron registros.
+
+📡 Subdominios (bufferover)
+------------------------------------------------------------
+No se encontraron registros.
+
+🔍 Subdominios (jldc)
+------------------------------------------------------------
+testing.pinterest.com
+assets.pinterest.com
+adminapp.pinterest.com
+jp.pinterest.com
+engineering.pinterest.com
+anket.pinterest.com
+gb.pinterest.com
+blog.pinterest.com
+mdp.pinterest.com
+pinterest.help.pinterest.com
+business.pinterest.com
+developers.pinterest.com
+careers.pinterest.com
+origin.sub.pinterest.com
+realtime.pinterest.com
+widgets.pinterest.com
+about.pinterest.com
+pinfluencers.pinterest.com
+post.pinterest.com
+policy.pinterest.com
+support.pinterest.com
+api.pinterest.com
+developers-latest.pinterest.com
+sub.pinterest.com
+help.pinterest.com
+fr.pinterest.com
+asset.pinterest.com
+
+📍 GeoIP + ASN
+------------------------------------------------------------
+IP: 151.101.64.84
+País: United States
+ISP: Fastly, Inc.
+ORG: Fastly, Inc.
+ASN: AS54113 Fastly, Inc.
+Ciudad: San Francisco
+
+🔁 Reverse IP Lookup
+------------------------------------------------------------
+pinterest.be
+pinterest.ch
+traumezimmer.ch
+mindyourplants.com
+pinpiaa.com
+pinterestcreators.com
+pinterestjapanblog.com
+presentslaunches.com
+unboringboardroom.com
+in-style-ins-neue-jahr.de
+pinterest.dk
+pinterest.hu
+pinterest.jp
+pinterest.com.py
+pinterest.ru
+pinterest.se
+pinterest.th
+pinterest.co.uk
+pinterest.uk
+
+📦 Headers HTTP + CDN/WAF
+------------------------------------------------------------
+✅ Protección X-Frame activa
+✅ CSP presente
+
+📛 Zone Transfer (AXFR)
+------------------------------------------------------------
+ns5.pinterest.com: fallido (seguro)
+ns6.pinterest.com: fallido (seguro)
+ns9.pinterest.com: fallido (seguro)
+ns10.pinterest.com: fallido (seguro)

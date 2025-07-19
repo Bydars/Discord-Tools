@@ -1,0 +1,91 @@
+🧬 Análisis de tecnologías de: pinterest.com
+📅 2025-07-19T18:03:25.405Z
+
+🧩 Favicon Hash (MD5): 05be5f250d678228b050ebaa3e8e98d7
+
+🔍 Tecnologías detectadas:
+------------------------------------------------------------
+CDN: fastly
+HSTS
+CSP (Content Security Policy)
+Content-Type Options
+X-Frame-Options
+X-XSS-Protection
+Referrer Policy
+React
+Magento
+Admin Panel
+Dev Panel
+Sign Up
+Token Form
+2FA
+reCAPTCHA
+HTML Comments
+Debug Message
+PWA
+
+⚠️ Posibles vulnerabilidades o exposiciones:
+------------------------------------------------------------
+🕳️ .env expuesto (/.env)
+🕳️ Git Config expuesto (/.git/config)
+🕳️ Git HEAD expuesto (/.git/HEAD)
+🕳️ SVN Entries expuesto (/.svn/entries)
+🕳️ .htaccess expuesto (/.htaccess)
+🕳️ Apache Config expuesto (/httpd.conf)
+🕳️ Nginx Config expuesto (/nginx.conf)
+🕳️ Dockerfile expuesto (/Dockerfile)
+🕳️ docker-compose.yml expuesto (/docker-compose.yml)
+🕳️ Kubernetes config expuesto (/.kube/config)
+🕳️ composer.json expuesto (/composer.json)
+🕳️ package.json expuesto (/package.json)
+🕳️ config.json expuesto (/config.json)
+🕳️ settings.py expuesto (/settings.py)
+🕳️ Backup ZIP expuesto (/backup.zip)
+🕳️ Backup TAR expuesto (/backup.tar.gz)
+🕳️ MySQL Dump expuesto (/dump.sql)
+🕳️ DB Backup expuesto (/database.sql)
+🕳️ Old WP Backup expuesto (/wp-backup.zip)
+🕳️ Users CSV expuesto (/users.csv)
+🕳️ Admins CSV expuesto (/admin.csv)
+🕳️ Backup JSON expuesto (/backup.json)
+🕳️ Backup OLD expuesto (/backup.old)
+🕳️ PHPInfo expuesto (/phpinfo.php)
+🕳️ XDebug Trace expuesto (/xdebug.trace)
+🕳️ API Docs (Swagger) expuesto (/swagger.json)
+🕳️ API Docs UI expuesto (/swagger)
+🕳️ GraphQL Playground expuesto (/graphql)
+🕳️ GraphiQL IDE expuesto (/graphiql)
+🕳️ Dev Tools expuesto (/devtools)
+🕳️ Environment Dump expuesto (/env)
+🕳️ Admin Panel expuesto (/admin)
+🕳️ CPanel expuesto (/cpanel)
+🕳️ phpMyAdmin expuesto (/phpmyadmin)
+🕳️ wp-login expuesto (/wp-login.php)
+🕳️ WordPress Admin expuesto (/wp-admin)
+🕳️ Laravel Debug expuesto (/_debugbar)
+🕳️ Django Admin expuesto (/admin/login/)
+🕳️ Node-RED Editor expuesto (/red)
+🕳️ Grafana Login expuesto (/login)
+🕳️ Shell Script expuesto (/shell.php)
+🕳️ Error Log expuesto (/error.log)
+🕳️ Access Log expuesto (/access.log)
+🕳️ Nginx Log expuesto (/nginx.log)
+🕳️ Apache Log expuesto (/apache.log)
+🕳️ Debug Log expuesto (/debug.log)
+🕳️ robots.txt expuesto (/robots.txt)
+🕳️ Security.txt expuesto (/.well-known/security.txt)
+🕳️ AWS S3 Bucket Config expuesto (/s3cfg)
+🕳️ Firebase Config expuesto (/firebase.json)
+🕳️ GCP Secret JSON expuesto (/google-services.json)
+🕳️ Staging Site expuesto (/staging)
+🕳️ Old Site expuesto (/old)
+🕳️ Dev Site expuesto (/dev)
+🕳️ Backup Folder expuesto (/backup)
+🕳️ Uploads Folder expuesto (/uploads)
+🕳️ Public Files expuesto (/files)
+🕳️ Private Files expuesto (/private)
+🕳️ License Key File expuesto (/license.key)
+🕳️ SSL Private Key expuesto (/ssl.key)
+🕳️ PEM File expuesto (/cert.pem)
+🕳️ Shell Backup expuesto (/.bash_history)
+🕳️ Env Backup expuesto (/env.old)
